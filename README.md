@@ -1,41 +1,19 @@
-## Analyzing Tiers-Lieux using Twitter and Commune-Mesure website
+## Background and context
 
-You can use the [editor on GitHub](https://github.com/sadekar-onkar/tierslieux_ddps/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+“Transitional urbanism” is a term used to describe a range of practices and projects that have emerged over the past ten years in the field of urban development. These projects typically involve the temporary (1-3 year) occupancy of urban brownfield sites by a mix of local SMEs, artists and community organisations while the sites await approval for redevelopment or demolition. The buildings can be publicly or privately owned; examples include industrial sites, warehouses, transportation infrastructure, office space and municipal buildings. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unlike squats, with which they share some features, transitional urbanism projects are regulated (tenants sign leases and pay nominal rent to the building owners) and are increasingly being encouraged by municipalities, who see them as a way to expand community involvement, preserve low-cost space for non-profit and cultural activities and foster local economic development. In fact, some local authorities now use the permitting process to encourage site owners to initiate transitional urbanism projects and then incorporate aspects of them into their final building plans, resulting in permanent space for local and community-based activities. 
 
-### Hello
+In France, transitional urbanism projects are often referred to as “tiers-lieux”: literally “third places”, or hybrid places – defined to an extent by their “in betweenness”, between temporary and permanent, public and private, single and multiple uses, ownership and occupancy, top-down and bottom-up. 
 
-## This is trial
+The concept of third places was initially described and popularised by the American sociologist Ray Oldenburg in his influential 1989 study The Great Good Place. Oldenburg coined the term to refer to places of public sociability - pubs, cafés, barber shops, community centres, etc. – in contrast to first places (the home) and second places (the workplace). His study foregrounds their role in forming and maintaining community ties, even going so far to refer to them as the grassroots of democracy and linking them to older examples of public fora like the French café during the Revolutionary period or the London coffee house. 
 
-### Markdown
+In the contemporary French context, this collective, community-building aspect has merged with notions of temporary occupancy and adaptive reuse. The association France Tiers-Lieux provides the following definition of a tiers-lieu from the perspective of transitional urbanism, highlighting the role of collaboration and their sui generis nature: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“A third place is a collective approach in service of the public good, part of a process of local cooperation starting from its conception. By their very nature, they are unique and cannot be replicated. They emerge from a group of stakeholders who together wish to create new economic or social dynamics in response to the challenges of their local area. It is by bringing inhabitants and future users of a place together, shaping the contours of its active community in doing so, that the activities in the place are defined and the project is adapted.”
 
-```markdown
-Syntax highlighted code block
+As of 2021, there were over 1800 tiers-lieux in France. There is now significant political and research interest in these places thanks to their potential to inject new energy, investment and community engagement into local economic development, not least because many of the sites in question are in economically depressed or post-industrial areas. 
 
-# Header 1
-## Header 2
-### Header 3
+A range of institutional, non-profit and private stakeholders has emerged to work on identifying, promoting, funding and gathering best practices on the development of tiers-lieux. France Tiers-Lieux is a public association created with the support of the French Ministry of Territorial Cohesion to monitor and generate policies about tiers-lieux. Other stakeholders include operational urban planning collectives and consultancies (Plateau Urbain, Sinny & Ooko, Approche.s), urban planning institutes (Institut Paris Region, ANRU), and trans-disciplinary researchers in city planning, cultural projects and the social economy like Raphael Besson, Cécile Diguet, Arnaud Idelon and others. There are experimental university degrees offered in managing tiers-lieux and continuing education courses to help practitioners apply for public funding. Emblematic sites have emerged and received major media coverage and popular support (ex. Les Grands Voisins in Paris, Coco Velten in Marseille).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sadekar-onkar/tierslieux_ddps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Despite this proliferation of attention and stakeholders, an open question remains squarely at the centre of this work: what exactly is a tiers-lieu? 
