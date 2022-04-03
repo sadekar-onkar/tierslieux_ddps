@@ -1,3 +1,5 @@
+# TiersLieu: What do people think about them?
+
 ## Background and context
 
 “Transitional urbanism” is a term used to describe a range of practices and projects that have emerged over the past ten years in the field of urban development. These projects typically involve the temporary (1-3 year) occupancy of urban brownfield sites by a mix of local SMEs, artists and community organisations while the sites await approval for redevelopment or demolition. The buildings can be publicly or privately owned; examples include industrial sites, warehouses, transportation infrastructure, office space and municipal buildings. 
