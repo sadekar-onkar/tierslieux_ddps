@@ -64,8 +64,11 @@ Mapping each of the 72 sites onto the topic model to see what characteristics em
 |:--:| 
 | *Tweets vs Website combined* |
 
-![Image](/Data_collection/website_vs_twitter.jpeg)
-**Tweets vs Website grouped by site**
-![Image](/Data_collection/website_vs_twitter_any2.jpeg)
-**Tweets vs Website grouped by site, any two values together**
+| ![Image](/Data_collection/website_vs_twitter.jpeg)|
+|:--:| 
+| *Tweets vs Website grouped by site* |
+
+| ![Image](/Data_collection/website_vs_twitter_any2.jpeg) |
+|:--:| 
+| *Tweets vs Website grouped by site, any two values together* |
 
