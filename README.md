@@ -60,6 +60,10 @@ Our approach is progressive and exploratory, looking at the data from three diff
 
 Mapping each of the 72 sites onto the topic model to see what characteristics emerge. Can we classify or organise the sites based on their affinities with the model derived from keywords associated with the hashtags #tierslieux and #tierslieu?
 
-![Image](/Data_collection/tweet_vs_website_combined.jpeg)![Image](/Data_collection/website_vs_twitter.jpeg)
+![Image](/Data_collection/tweet_vs_website_combined.jpeg)
+*Tweets vs Website combined*
+![Image](/Data_collection/website_vs_twitter.jpeg)
+*Tweets vs Website grouped by site*
 ![Image](/Data_collection/website_vs_twitter_any2.jpeg)
+*Tweets vs Website grouped by site, any two values together*
 
