@@ -72,6 +72,13 @@ We then used the spacy French language library (fr_core_news_lg) to extract the 
 - glove-wiki-gigaword-100 corpus
 - A french corpus built on ~600 Million words from french wikipedia (https://fauconnier.github.io/).
 
+## Results
+
+Most used hashtags             |  Second-most used hashtags
+:-------------------------:|:-------------------------:
+![Image](/Data_collection/hashtags_first_time.jpeg)  |  ![Image](/Data_collection/hashtags_second_time.jpeg)
+
+
 
 | ![Image](/Data_collection/tweet_vs_website_combined.jpeg) |
 |:--:| 
