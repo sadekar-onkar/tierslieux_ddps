@@ -60,6 +60,19 @@ Our approach is progressive and exploratory, looking at the data from three diff
 
 Mapping each of the 72 sites onto the topic model to see what characteristics emerge. Can we classify or organise the sites based on their affinities with the model derived from keywords associated with the hashtags #tierslieux and #tierslieu?
 
+## Data and Methods
+
+We used two datasets to conduct our experiment: 
+
+1. **Commune Mesure**, a publicly funded website that gives tiers-lieux space to define themselves and co-develop metrics for measuring their impact. We scraped the website (https://communemesure.fr/app/les-lieux) using the BeautifulSoup and urllib packages of python. We then collected the data about the name of the site, its address, its geographical coordinates, founding values, and values used to self-describe 38 different “tiers-lieux” sites.
+
+2. **Twitter**. There are slightly more than 24,000 tweets in existence with the hashtags #tierslieux and #tierslieu. We used the twitter API and the MINET library to scrape tweets with hashtags #tierslieux and #tierslieu. There were ~19k tweets associated with #tierslieux and ~6k tweets associated with #tierslieu. We combined the two datasets by removing the duplicates to have a total of ~24k tweets.
+
+We then used the spacy French language library (fr_core_news_lg) to extract the n-grams from all tweets. Using the top 10 topic terms, we labeled all tweets from a given year with one topic using two methods
+- glove-wiki-gigaword-100 corpus
+- A french corpus built on ~600 Million words from french wikipedia (https://fauconnier.github.io/).
+
+
 | ![Image](/Data_collection/tweet_vs_website_combined.jpeg) |
 |:--:| 
 | *Tweets vs Website combined* |
