@@ -1,6 +1,4 @@
-# Tiers-Lieux: comparing the way places define themselves and how they are talked about on Twitter 
-
-## Working paper
+# Tiers-Lieux: comparing the way places define themselves and how they are talked about on Twitter (working paper)
 
 ## Background and context
 
