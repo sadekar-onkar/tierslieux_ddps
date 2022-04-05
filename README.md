@@ -1,4 +1,4 @@
-# TiersLieu: What do people think about them?
+# Tiers-Lieux: comparing the way places define themselves and how they are talked about on Twitter 
 
 ## Background and context
 
