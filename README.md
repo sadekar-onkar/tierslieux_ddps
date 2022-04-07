@@ -94,3 +94,16 @@ Most used hashtags             |  Second-most used hashtags
 |:--:|
 |This analysis shows the first- and second-most used hashtags associated with tweets that were also tagged with #tierslieux and #tierslieu between 2011 and 2022. Every single year, the most used hashtag was coworking. The second most frequently used hashtag varied nearly every year from 2011 to 2019: coworking, tourtt (“Tour de France de Télétravail, a press tour organised by LMBG Labs, a Paris-based consultancy that created coworking spaces and events), “télétravail”, fablab (another example of corporate jargon used to describe short-term projects geared at innovation, startup incubation and creative projects), biennaledesign17 (in reference to the 2017 Biennale du Design de Saint-Etienne, which was entitled “Working Promesse: Les mutations du travail” (Working Promise: the evolution of work”), “immobilier” (real estate), and finally “ESS” (“économie solidaire et sociale” / social and solidarity economy), signalling a broader shift to messaging about the role of tiers-lieux.|
 
+
+| ![Image](/plots/tweets_values_carried_year.jpeg) |
+|:--:| 
+| This plot shows the change over time of the occurrence of values that appear on Twitter (the range of values being limited to those that were also chosen by tiers-lieux to represent themselves on Commune Mesure). We can see a general increase in the number of mentions for almost all of the values over time, with an inflection point in 2019 was due to the decrease in the number of tweets overall due to the pandemic. Two trends stand out: the much more rapid rise of “acceuil” (beginning in 2018) and “partage” (starting in 2016). To understand this phenomenon, we need to look at the context of what sites and users were Tweeting at this time. Was there an increase in the number of sites working on temporary housing (with which these terms are often associated in the language of tiers-lieux)? Or is it just a semantic shift?  |
+
+
+
+| ![Image](/plots/tweet_vs_website_combined.jpeg) |
+|:--:| 
+| In this plot, the values that appear on the x-axis are the most frequent terms that emerge from a specific category of the Commune Mesure corpus: specifically, the “values” chosen by the participating sites to represent themselves. We searched for and plotted the occurrence of these terms in the Twitter corpus. There is a clear divergence between the terms articulated by the 38 Commune Mesure sites and those that appear on Twitter. The most frequently used values on CM (creativité/creativity, coopération and convivialité) were found significantly less frequently on Twitter. There was more significant overlap between two terms – “acceuil” (“welcome” or “hospitality” in the sense of having guests but also extending to temporary housing) and partage (sharing). The term “environnement” is cited less than one third (CM) and one quarter (Twitter) as often as the top two terms but showed significant overlap. |
+
+
+
