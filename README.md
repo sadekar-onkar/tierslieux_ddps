@@ -88,7 +88,7 @@ The total number of tweets increased each year between 2010 and 2019, then dropp
 Interestingly, this progression also indicates changes in the way tiers-lieux are described by twitter users - initially in relation to working-from-home or alternatives to the office, then linked to innovation, and finally to digital policies and spaces. Anecdotally, this tracks with changes in corporate and some public administration discourse around workplace innovation and the rise of working from outside the office thanks to better internet connectivity and changing attitudes towards office hours in France. This trend would have to be correlated by further analysis of specific users, corporate sponsors of sites and changes in the published literature on tiers-lieux, but does indicate a clear temporal trend. Further research could be conducted to understand the specifics of why the topics resulting from the models in experiments 1 and 2 vary so widely.|
 
 
-Most used hashtags             |  Second-most used hashtags
+Most used hashtags         |  Second-most used hashtags
 :-------------------------:|:-------------------------:
 ![Image](/plots/hashtags_most_used_time.jpeg)  |  ![Image](/plots/hashtags_second_most_used_time.jpeg)
 |:--:|
