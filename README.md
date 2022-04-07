@@ -74,17 +74,23 @@ We then used the spacy French language library (fr_core_news_lg) to extract the 
 
 ## Results
 
-Most used hashtags             |  Second-most used hashtags
-:-------------------------:|:-------------------------:
-![Image](/plots/hashtags_most_used_time.jpeg)  |  ![Image](/plots/hashtags_second_most_used_time.jpeg)
-
-
-
 | ![Image](/plots/tweets_topic_time_wiki.jpeg) |
 |:--:| 
-| Graph 1 shows the first results of our experiment involving tracking the top topic per year as described in the method above. Using the gigaword corpus to train the model, our results showed several emerging trends: the recurrence of the topic “nouveau” in 2011-2012, then the recurrence of the topic “espace” (space) in 2014-2015, and finally the recurrence of the word “territoire” (literally territory, or local area) in 2019-2021. This progression indicates changes in the way tiers-lieux are described by twitter users - first as new projects and methods, then focusing on spaces that they occupy, and finally speaking more about their impact and involvement in local development. This trend would have to be confirmed by further analysis of specific users and correlated to changes in the published literature on tiers-lieux, but does indicate a clear trend. 
+| Figure 1 shows the first results of our experiment involving tracking the top topic per year as described in the method above. Using the gigaword corpus to train the model, our results showed several emerging trends: the recurrence of the topic “nouveau” in 2011-2012, then the recurrence of the topic “espace” (space) in 2014-2015, and finally the recurrence of the word “territoire” (literally territory, or local area) in 2019-2021. This progression indicates changes in the way tiers-lieux are described by twitter users - first as new projects and methods, then focusing on spaces that they occupy, and finally speaking more about their impact and involvement in local development. This trend would have to be confirmed by further analysis of specific users and correlated to changes in the published literature on tiers-lieux, but does indicate a clear trend. 
  
 The total number of tweets increased each year between 2010 and 2019, then dropped off precipitously between 2019-2021. This is likely due to the Covid-19 crisis, since tiers-lieux are working and public spaces and activity was restricted because of the pandemic. |
 
 
+| ![Image](/plots/tweets_topic_time_french.jpeg) |
+|:--:| 
+| Figure 2 shows the results of the same experiment as Graph 1 (calculating and tracking the top topic per year) but using the French-language corpus to train the model. The results show a different distribution of topics, which also suggests a trend of change over time, though the topics are different from the model trained on the primarily English-language corpus. In this case, the it is the topic “télétravail” (working from home/out of the office) that rose to the top of the ranking between 2011-2015, then the topic “innovation” in 2015-2016. The topics “numérique” (digital, 2018 + 2020-2021l) and “espace” (space, 2019, 2022) alternated for top ranking in the final years of the analysis. 
+ 
+Interestingly, this progression also indicates changes in the way tiers-lieux are described by twitter users - initially in relation to working-from-home or alternatives to the office, then linked to innovation, and finally to digital policies and spaces. Anecdotally, this tracks with changes in corporate and some public administration discourse around workplace innovation and the rise of working from outside the office thanks to better internet connectivity and changing attitudes towards office hours in France. This trend would have to be correlated by further analysis of specific users, corporate sponsors of sites and changes in the published literature on tiers-lieux, but does indicate a clear temporal trend. Further research could be conducted to understand the specifics of why the topics resulting from the models in experiments 1 and 2 vary so widely.|
+
+
+Most used hashtags             |  Second-most used hashtags
+:-------------------------:|:-------------------------:
+![Image](/plots/hashtags_most_used_time.jpeg)  |  ![Image](/plots/hashtags_second_most_used_time.jpeg)|
+|:--:|
+|This analysis shows the first- and second-most used hashtags associated with tweets that were also tagged with #tierslieux and #tierslieu between 2011 and 2022. Every single year, the most used hashtag was coworking. The second most frequently used hashtag varied nearly every year from 2011 to 2019: coworking, tourtt (“Tour de France de Télétravail, a press tour organised by LMBG Labs, a Paris-based consultancy that created coworking spaces and events), “télétravail”, fablab (another example of corporate jargon used to describe short-term projects geared at innovation, startup incubation and creative projects), biennaledesign17 (in reference to the 2017 Biennale du Design de Saint-Etienne, which was entitled “Working Promesse: Les mutations du travail” (Working Promise: the evolution of work”), “immobilier” (real estate), and finally “ESS” (“économie solidaire et sociale” / social and solidarity economy), signalling a broader shift to messaging about the role of tiers-lieux.|
 
