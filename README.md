@@ -148,7 +148,7 @@ Ways to expand and enrich the experiment in a future iteration include:
 
 ## Bibliography
 
-Albalawi, Rania, Yeap, Tet Hin, and Benyoucef, Morad. 2020. [https://www.frontiersin.org/article/10.3389/frai.2020.00042](”Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis)”. Frontiers in Artificial Intelligence.     
+Albalawi, Rania, Yeap, Tet Hin, and Benyoucef, Morad. 2020. [”Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis”](https://www.frontiersin.org/article/10.3389/frai.2020.00042). Frontiers in Artificial Intelligence.     
 
 Alvarez-Melis, David, and Saveski, Martin. “Topic Modeling in Twitter: Aggregating Tweets by Conversations”. MIT. Conference poster. 
 
