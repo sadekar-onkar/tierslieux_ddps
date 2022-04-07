@@ -148,33 +148,33 @@ Ways to expand and enrich the experiment in a future iteration include:
 
 ## Bibliography
 
-Albalawi, Rania, Yeap, Tet Hin, and Benyoucef, Morad. 2020. [”Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis”](https://www.frontiersin.org/article/10.3389/frai.2020.00042). Frontiers in Artificial Intelligence.     
+Albalawi, Rania, Yeap, Tet Hin, and Benyoucef, Morad. 2020. [”Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis”](https://www.frontiersin.org/article/10.3389/frai.2020.00042). *Frontiers in Artificial Intelligence.*   
 
-Alvarez-Melis, David, and Saveski, Martin. “Topic Modeling in Twitter: Aggregating Tweets by Conversations”. MIT. Conference poster. 
+Alvarez-Melis, David, and Saveski, Martin. [“Topic Modeling in Twitter: Aggregating Tweets by Conversations”](https://dmelis.github.io/assets/publications/2016_twitter_topic_modeling/poster.pdf). MIT. Conference poster. 
 
-APUR. 2021. Urbanisme Transitoire – Solutions juridiques. 
+APUR. 2021. [Urbanisme Transitoire – Solutions juridiques.](https://www.apur.org/en/our-works/transitional-urbanism-legal-solutions) 
 
-Besson, Raphael. 2020. “Cities: reappraising the value of transitional urban development projects”. ID4D. 
+Besson, Raphael. 2020. [“Cities: reappraising the value of transitional urban development projects”.](https://ideas4development.org/en/cities-reappraising-the-value-of-transitional-urban-development-projects/#:~:text=There%20are%20many%20examples%20of,the%20needs%20of%20local%20residents) ID4D. 
 
-Besson, Raphael. 2017. Rôle et limites des tiers-lieux dans la fabrique des villes contemporaines. Territoire en mouvement Revue de géographie et aménagement [En ligne], 34 | 2017, mis en ligne le 29 novembre 2017, consulté le 07 avril 2022.
+Besson, Raphael. 2017. [Rôle et limites des tiers-lieux dans la fabrique des villes contemporaines.](https://journals.openedition.org/tem/4184) Territoire en mouvement Revue de géographie et aménagement [En ligne], 34 \| 2017, mis en ligne le 29 novembre 2017, consulté le 07 avril 2022.
 
-Chen, Guan-Bin and Kao, Hung-Yu. 2015. “Word Co-occurrence Augmented Topic Model in Short Text”. Computational Linguistics and Chinese Language Processing Vol. 20, No. 2, December 2015, pp. 45-64 45.  
+Chen, Guan-Bin and Kao, Hung-Yu. 2015. [“Word Co-occurrence Augmented Topic Model in Short Text”.](https://aclanthology.org/O15-3003.pdf) *Computational Linguistics and Chinese Language Processing* Vol. 20, No. 2, December 2015, pp. 45-64 45.  
 
-Diguet, Cécile. 2020. L'avènement d'un urbanisme des communs ? Chronique des confins n° 10. Institut Paris Région.
+Diguet, Cécile. 2020. [L'avènement d'un urbanisme des communs ?](https://www.institutparisregion.fr/amenagement-et-territoires/chroniques-des-confins/lavenement-dun-urbanisme-des-communs/) *Chronique des confins n° 10.* Institut Paris Région.
 
-Etienne, Eve, et al. 2019. “A text mining approach to investigate urban planning documents: study case of Reunion Island”.  
+Etienne, Eve, et al. 2019. [“A text mining approach to investigate urban planning documents: study case of Reunion Island”.](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-ersa-public/14cdcdd478464c7f94f01e6e707a9704)  
 
-France Tiers-Lieux. 2021. Rapport Tiers-Lieux 2021. 
+France Tiers-Lieux. 2021. [Rapport Tiers-Lieux 2021. ](https://francetierslieux.fr/rapport-tiers-lieux-2021/)
 
-Idelon, Arnaud. 2019. Derrière les murs des espaces du commun. Revue Sur Mesure. 
+Idelon, Arnaud. 2019. [Derrière les murs des espaces du commun. Revue Sur Mesure.](http://www.revuesurmesure.fr/issues/nouveaux-visages-ville-active/derriere-les-murs-des-espaces-du-commun)
 
-Kaggle. 2019. “Topic Modelling (LDA) on Elon Tweets”.
+Kaggle. 2019. [“Topic Modelling (LDA) on Elon Tweets”.](https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets)
 
-Lai, Yuan, and Kontokosta, Constantine. 2019. Topic modeling to discover the thematic structure and spatial-temporal patterns of building renovation and adaptive reuse in cities. Computers, Environment and Urban Systems. Vol. 78. https://doi.org/10.1016/j.compenvurbsys.2019.101383.
+Lai, Yuan, and Kontokosta, Constantine. 2019. [Topic modeling to discover the thematic structure and spatial-temporal patterns of building renovation and adaptive reuse in cities.](https://doi.org/10.1016/j.compenvurbsys.2019.101383.) *Computers, Environment and Urban Systems.* Vol. 78.
 
-Mavrič, J., Bobek, V., 2015, “Measuring Urban Development and City Performance”, in V. Bobek (ed.), Perspectives on Business and Management, IntechOpen, London. 10.5772/61063. 
+Mavrič, J., Bobek, V., 2015, [“Measuring Urban Development and City Performance”](https://www.intechopen.com/chapters/49102), in V. Bobek (ed.), Perspectives on Business and Management, IntechOpen, London. 10.5772/61063. 
 
-Stack Overflow. 2020. “A practical example of GSDMM in python?”.  
+Stack Overflow. 2020. [“A practical example of GSDMM in python?”.](https://stackoverflow.com/questions/62108771/a-practical-example-of-gsdmm-in-python)
 
-Oldenburg, Ray. 1989. The Great Good Place: cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day. New York: Paragon House.
+Oldenburg, Ray. 1989. *The Great Good Place: cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day.* New York: Paragon House.
 
