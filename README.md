@@ -27,15 +27,15 @@ Despite this proliferation of attention and stakeholders, an open question remai
 
 ***Elephant test: between “what they say they are” and “what people say they are”***
 
-Bridging the gap between what they do, what they are and what they say they are is important because it will help establish a baseline for measuring their impact, the holy grail of urban development projects, one that remains frustratingly elusive because of the lack of consistency and comparability between indicators (Mavrič and Bobek, 2015).
+Bridging the gap between what tiers-lieux do, what they are and what they say they are is important because it will help establish a baseline for measuring their impact, the holy grail of urban development projects, one that remains frustratingly elusive for tiers-lieux and other emerging projects because of the lack of consistency and comparability between indicators (Mavrič and Bobek, 2015).
 
 Taking the definition by France Tiers-Lieux at face value, how can standards, regulations and policies be made to help promote tiers-lieux if they are “unique and cannot be replicated”? This claim may closer to a provocation or a philosophy than to a legal or standard-setting definition – not least because France Tiers Lieux has also created a list of characteristics shared by tiers-lieux (Rapport France Tiers-Lieux 2021), meaning that they are not entirely resistant to categorization and norms. And other institutions, notably APUR (Paris Urbanism Agency), have studied the legal framework for tiers-lieux in order to build a more solid foundation for such projects within existing planning law and regulations (APUR 2021). 
 
-But the dilemma remains that, because of their hyperlocal, collaborative nature and bottom-up (rather than top down) approach to developing and running them, there is a philosophical resistance to standardisation amongst practitioners and stakeholders in tiers-lieux.
+But the dilemma remains that, because of their hyperlocal, collaborative nature and the bottom-up (rather than top-down) approach to developing and running them, there is a philosophical resistance to standardisation amongst practitioners and stakeholders in tiers-lieux.
 
 In order to develop policies to support, subsidise and quantify their impact, there needs to be some way to objectively characterise what a “tiers-lieu” is, rather than only what it does. In practical terms, such a characterisation would allow tiers-lieux to be written into local planning documents, to make the legal framework around them more robust, and create a baseline for measuring their impact on issues like community participation, real estate values and local economic development. 
 
-This issue has been examined by several practitioners, some directly has been examined by researchers and practitioners from several angles.
+Some of the issues we want to explore have been examined by researchers and practitioners from various angles.
 
 Researchers in urban planning have used text mining, topic modelling and other NLP techniques to examine trends and patterns in urban planning documentation. The difficulty of working on the topic of tiers-lieux is that they are not currently written into planning documents, being relatively new and faced with the present challenge of definitions. 
 
