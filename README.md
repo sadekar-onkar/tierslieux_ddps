@@ -2,21 +2,21 @@
 
 ## Background and context
 
-“Transitional urbanism” is a term used to describe a range of practices and projects that have emerged over the past ten years in the field of urban development. These projects typically involve the temporary (1-3 year) occupancy of urban brownfield sites by a mix of local SMEs, artists and community organisations while the sites await approval for redevelopment or demolition. The buildings can be publicly or privately owned; examples include industrial sites, warehouses, transportation infrastructure, office space and municipal buildings. 
+“Transitional urbanism” is a term used to describe a range of practices and projects that have emerged over the past ten years in the field of urban development (Besson 2020). These projects typically involve the temporary (1-3 year) occupancy of urban brownfield sites by a mix of local SMEs, artists and community organisations while the sites await approval for redevelopment or demolition. The buildings can be publicly or privately owned; examples include industrial sites, warehouses, transportation infrastructure, office space and municipal buildings. 
 
 Unlike squats, with which they share some features, transitional urbanism projects are regulated (tenants sign leases and pay nominal rent to the building owners) and are increasingly being encouraged by municipalities, who see them as a way to expand community involvement, preserve low-cost space for non-profit and cultural activities and foster local economic development. In fact, some local authorities now use the permitting process to encourage site owners to initiate transitional urbanism projects and then incorporate aspects of them into their final building plans, resulting in permanent space for local and community-based activities. 
 
 In France, transitional urbanism projects are often referred to as “tiers-lieux”: literally “third places”, or hybrid places – defined to an extent by their “in betweenness”, between temporary and permanent, public and private, single and multiple uses, ownership and occupancy, top-down and bottom-up. 
 
-The concept of third places was initially described and popularised by the American sociologist Ray Oldenburg in his influential 1989 study The Great Good Place. Oldenburg coined the term to refer to places of public sociability - pubs, cafés, barber shops, community centres, etc. – in contrast to first places (the home) and second places (the workplace). His study foregrounds their role in forming and maintaining community ties, even going so far to refer to them as the grassroots of democracy and linking them to older examples of public fora like the French café during the Revolutionary period or the London coffee house. 
+The concept of third places was initially described and popularised by the American sociologist Ray Oldenburg in his influential 1989 study The Great Good Place. Oldenburg coined the term to refer to places of public sociability - pubs, cafés, barber shops, community centres, etc. – in contrast to first places (the home) and second places (the workplace) (Oldenburg 1989). His study foregrounds their role in forming and maintaining community ties, even going so far to refer to them as the grassroots of democracy and linking them to older examples of public fora like the French café during the Revolutionary period or the London coffee house. 
 
 In the contemporary French context, this collective, community-building aspect has merged with notions of temporary occupancy and adaptive reuse. The association France Tiers-Lieux provides the following definition of a tiers-lieu from the perspective of transitional urbanism, highlighting the role of collaboration and their sui generis nature: 
 
-“A third place is a collective approach in service of the public good, part of a process of local cooperation starting from its conception. By their very nature, they are unique and cannot be replicated. They emerge from a group of stakeholders who together wish to create new economic or social dynamics in response to the challenges of their local area. It is by bringing inhabitants and future users of a place together, shaping the contours of its active community in doing so, that the activities in the place are defined and the project is adapted.”
+“A third place is a collective approach in service of the public good, part of a process of local cooperation starting from its conception. **By their very nature, they are unique and cannot be replicated.** They emerge from a group of stakeholders who together wish to create new economic or social dynamics in response to the challenges of their local area. It is by bringing inhabitants and future users of a place together, shaping the contours of its active community in doing so, that the activities in the place are defined and the project is adapted” (Rapport France Tiers-Lieux 2021, our translation).
 
-As of 2021, there were over 1800 tiers-lieux in France. There is now significant political and research interest in these places thanks to their potential to inject new energy, investment and community engagement into local economic development, not least because many of the sites in question are in economically depressed or post-industrial areas. 
+As of 2021, there were over 1800 tiers-lieux in France (Rapport France Tiers-Lieux, 2021). There is now significant political and research interest in these places thanks to their potential to inject new energy, investment and community engagement into local economic development, not least because many of the sites in question are in economically depressed or post-industrial areas. 
 
-A range of institutional, non-profit and private stakeholders has emerged to work on identifying, promoting, funding and gathering best practices on the development of tiers-lieux. France Tiers-Lieux is a public association created with the support of the French Ministry of Territorial Cohesion to monitor and generate policies about tiers-lieux. Other stakeholders include operational urban planning collectives and consultancies (Plateau Urbain, Sinny & Ooko, Approche.s), urban planning institutes (Institut Paris Region, ANRU), and trans-disciplinary researchers in city planning, cultural projects and the social economy like Raphael Besson, Cécile Diguet, Arnaud Idelon and others. There are experimental university degrees offered in managing tiers-lieux and continuing education courses to help practitioners apply for public funding. Emblematic sites have emerged and received major media coverage and popular support (ex. Les Grands Voisins in Paris, Coco Velten in Marseille).
+A range of institutional, non-profit and private stakeholders has emerged to work on identifying, promoting, funding and gathering best practices on the development of tiers-lieux. France Tiers-Lieux is a public association created with the support of the French Ministry of Territorial Cohesion to monitor and generate policies about tiers-lieux. Other stakeholders include operational urban planning collectives and consultancies (Plateau Urbain, Sinny & Ooko, Approche.s), urban planning institutes (Institut Paris Region, ANRU), and trans-disciplinary researchers in city planning, cultural projects and the social economy like Raphael Besson (Besson 2017), Cécile Diguet (Diguet 2020), Arnaud Idelon (Idelon 2019) and others. There are experimental university degrees offered in managing tiers-lieux and continuing education courses to help practitioners apply for public funding. Emblematic sites have emerged and received major media coverage and popular support (ex. Les Grands Voisins in Paris, Coco Velten in Marseille).
 
 Despite this proliferation of attention and stakeholders, an open question remains squarely at the centre of this work: what exactly is a tiers-lieu? 
 
@@ -24,13 +24,13 @@ Despite this proliferation of attention and stakeholders, an open question remai
 
 ## Motivation of the research question
 
-“I know it when I see it” – threshold test established by Justice Potter Stewart in the 1964 US Supreme Court decision on obscenity and the definition of hardcore pornography
+*“I know it when I see it” – threshold test established by Justice Potter Stewart in the 1964 US Supreme Court decision on obscenity and the definition of hardcore pornography*
 
-Elephant test: between “what they say they are” and “what people say they are”
+***Elephant test: between “what they say they are” and “what people say they are”***
 
-Bridging the gap between what they do, what they are and what they say they are is important because it will help establish a baseline for measuring their impact, the holy grail of urban development projects, one that remains frustratingly elusive because of the lack of consistency and comparability between indicators. 
+Bridging the gap between what they do, what they are and what they say they are is important because it will help establish a baseline for measuring their impact, the holy grail of urban development projects, one that remains frustratingly elusive because of the lack of consistency and comparability between indicators (Mavrič and Bobek, 2015).
 
-Taking the definition by France Tiers-Lieux at face value, how can standards, regulations and policies be made to help promote tiers-lieux if they are “unique and cannot be replicated”? This claim may closer to a provocation or a philosophy than to a legal or standard-setting definition – not least because France Tiers Lieux has also created a list of characteristics shared by tiers-lieux, meaning that they are not entirely resistant to categorization and norms. And other institutions, notably APUR (Paris Urbanism Agency), have studied the legal framework for tiers-lieux in order to build a more solid foundation for such projects within existing planning law and regulations. 
+Taking the definition by France Tiers-Lieux at face value, how can standards, regulations and policies be made to help promote tiers-lieux if they are “unique and cannot be replicated”? This claim may closer to a provocation or a philosophy than to a legal or standard-setting definition – not least because France Tiers Lieux has also created a list of characteristics shared by tiers-lieux (Rapport France Tiers-Lieux 2021), meaning that they are not entirely resistant to categorization and norms. And other institutions, notably APUR (Paris Urbanism Agency), have studied the legal framework for tiers-lieux in order to build a more solid foundation for such projects within existing planning law and regulations (APUR 2021). 
 
 But the dilemma remains that, because of their hyperlocal, collaborative nature and bottom-up (rather than top down) approach to developing and running them, there is a philosophical resistance to standardisation amongst practitioners and stakeholders in tiers-lieux.
 
@@ -40,7 +40,7 @@ This issue has been examined by several practitioners, some directly has been ex
 
 Researchers in urban planning have used text mining, topic modelling and other NLP techniques to examine trends and patterns in urban planning documentation. The difficulty of working on the topic of tiers-lieux is that they are not currently written into planning documents, being relatively new and faced with the present challenge of definitions. 
 
-Etienne, et al. (2019) have used text-mining to investigate urban planning documents in the French department of La Réunion for identifying differences in local planning strategies. Using the entire body of local planning documents (PADD) on the island  as a corpus, their correlation map, clustering and topic modelling exercise identified significant similarities between the documents, which they needed to analyse to determine whether they were attributable to the writer of the documents or to the hierarchical approach of urban planning in France and in Reunion Island. They also analysed whether differences between the documents were a response to local characteristics. Methodologically, they noted that high predominance of common vocabulary limited the comparative power of the exercise, with frequent recurrence of common urban planning terms like “renewal”, “diversification” and others.
+Etienne, et al. (2019) have used text-mining to investigate urban planning documents in the French department of La Réunion for identifying differences in local planning strategies. Using the entire body of local planning documents (PADD) on the island  as a corpus, their correlation map, clustering and topic modelling exercise identified significant similarities between the documents, which they needed to analyse to determine whether they were attributable to the writer of the documents or to the hierarchical approach of urban planning in France and in Reunion Island. They also analysed whether differences between the documents were a response to local characteristics. Methodologically, they noted that high predominance of common vocabulary limited the comparative power of the exercise, with frequent recurrence of common urban planning terms like “renewal”, “diversification” and others (Etienne et al, 2019).
 
 Another relevant paper by Yuan Lai and Constantine Kontokosta (2019) uses modelling to investigate the thematic structure and spatial-temporal patterns of building renovation and adaptive reuse in a number of American cities. They use NLP and topic modelling to examine the “thematic structure of construction activities from permit descriptions and merge with other urban data to explore the dynamics of urban change”. Proceeding through text mining to “identify popular words, popularity change and their co-appearance likelihood”, they conduct topic modelling using LDA and integrate the model with geo-spatial data on buildings to “identify spatial, temporal, and thematic patterns of urban redevelopment and regeneration”. We will broadly adapt this approach to our study, with significant differences in the source material for the corpus. 
 
@@ -52,13 +52,13 @@ Can we reconcile this dilemma by using “crowdsourced” information from Twitt
 
 On the other hand, to understand how these sites define themselves, we will extract data from the website of Commune Mesure. Calling itself a “data panorama”, the site is a non-profit initiative created to serve as  a census of tiers-lieux in France. It has notably given participating sites the opportunity to write about themselves in freeform and also to use a number of predefined characteristics that fit their mission statements. 
 
-Our approach is progressive and exploratory, looking at the data from three different lenses: 
+**What information can we reveal about tiers-lieux by analysing the text of the self-definitions of 38 of them (as scraped from the Commune Mesure website) and comparing it to the corpus of tweets containing the hashtags #tierslieux and #tierslieu?**
+ 
+Our approach is progressive and exploratory, looking at the data from different lenses: 
 
 - Change of key Twitter terms associated with #tierslieux over time 
-- Values from the CM site mapped onto the total top words from the Twitter corpus
-- Spatially mapping the Commune Mesure
-
-Mapping each of the 72 sites onto the topic model to see what characteristics emerge. Can we classify or organise the sites based on their affinities with the model derived from keywords associated with the hashtags #tierslieux and #tierslieu?
+- Analysing and visualising the terminology used in the tiers-lieux self- descriptions from Commune Mesure 
+- Comparing the values identified on Commune Mesure with those that emerge from the Twitter corpus and classifying the sites based on their co-occurrence
 
 ## Data and Methods
 
@@ -143,3 +143,38 @@ Ways to expand and enrich the experiment in a future iteration include:
 - It is possible that some of the people producing tweets about tiers-lieux are also involved in running or promoting them. Tweeters may not be a distinct group of people, so the Twitter dataset may just be an outgrowth of the “self definitions”. 
 
 - We could work on a geographical analysis of the two corpuses, since both the tweets and the Commune Mesure data contain addresses and georeferenced information about their authors.  This would allow us to look at whether there are any regional patterns that emerge. This data could also be cross-referenced with local economic development data from INSEE. A geographical angle of analysis would be key for future research on correlating these sites with real estate values, SME creation, etc. 
+
+
+
+## Bibliography
+
+Albalawi, Rania, Yeap, Tet Hin, and Benyoucef, Morad. 2020. [https://www.frontiersin.org/article/10.3389/frai.2020.00042](”Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis)”. Frontiers in Artificial Intelligence.     
+
+Alvarez-Melis, David, and Saveski, Martin. “Topic Modeling in Twitter: Aggregating Tweets by Conversations”. MIT. Conference poster. 
+
+APUR. 2021. Urbanisme Transitoire – Solutions juridiques. 
+
+Besson, Raphael. 2020. “Cities: reappraising the value of transitional urban development projects”. ID4D. 
+
+Besson, Raphael. 2017. Rôle et limites des tiers-lieux dans la fabrique des villes contemporaines. Territoire en mouvement Revue de géographie et aménagement [En ligne], 34 | 2017, mis en ligne le 29 novembre 2017, consulté le 07 avril 2022.
+
+Chen, Guan-Bin and Kao, Hung-Yu. 2015. “Word Co-occurrence Augmented Topic Model in Short Text”. Computational Linguistics and Chinese Language Processing Vol. 20, No. 2, December 2015, pp. 45-64 45.  
+
+Diguet, Cécile. 2020. L'avènement d'un urbanisme des communs ? Chronique des confins n° 10. Institut Paris Région.
+
+Etienne, Eve, et al. 2019. “A text mining approach to investigate urban planning documents: study case of Reunion Island”.  
+
+France Tiers-Lieux. 2021. Rapport Tiers-Lieux 2021. 
+
+Idelon, Arnaud. 2019. Derrière les murs des espaces du commun. Revue Sur Mesure. 
+
+Kaggle. 2019. “Topic Modelling (LDA) on Elon Tweets”.
+
+Lai, Yuan, and Kontokosta, Constantine. 2019. Topic modeling to discover the thematic structure and spatial-temporal patterns of building renovation and adaptive reuse in cities. Computers, Environment and Urban Systems. Vol. 78. https://doi.org/10.1016/j.compenvurbsys.2019.101383.
+
+Mavrič, J., Bobek, V., 2015, “Measuring Urban Development and City Performance”, in V. Bobek (ed.), Perspectives on Business and Management, IntechOpen, London. 10.5772/61063. 
+
+Stack Overflow. 2020. “A practical example of GSDMM in python?”.  
+
+Oldenburg, Ray. 1989. The Great Good Place: cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day. New York: Paragon House.
+
