@@ -93,7 +93,6 @@ Interestingly, this progression also indicates changes in the way tiers-lieux ar
 Most used hashtags         |  Second-most used hashtags 
 :-------------------------:|:-------------------------: 
 ![Image](/plots/hashtags_most_used_time.jpeg)  |  ![Image](/plots/hashtags_second_most_used_time.jpeg)
-|:--:|
 |This analysis shows the first- and second-most used hashtags associated with tweets that were also tagged with #tierslieux and #tierslieu between 2011 and 2022. Every single year, the most used hashtag was coworking. The second most frequently used hashtag varied nearly every year from 2011 to 2019: coworking, tourtt (“Tour de France de Télétravail, a press tour organised by LMBG Labs, a Paris-based consultancy that created coworking spaces and events), “télétravail”, fablab (another example of corporate jargon used to describe short-term projects geared at innovation, startup incubation and creative projects), biennaledesign17 (in reference to the 2017 Biennale du Design de Saint-Etienne, which was entitled “Working Promesse: Les mutations du travail” (Working Promise: the evolution of work”), “immobilier” (real estate), and finally “ESS” (“économie solidaire et sociale” / social and solidarity economy), signalling a broader shift to messaging about the role of tiers-lieux.|
 
 
