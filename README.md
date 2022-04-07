@@ -1,4 +1,4 @@
-(Website created by [Eamon Drumm](https://www.linkedin.com/in/eamon-thomas-drumm-49648039/) and [Onkar Sadekar](https://networkdatascience.ceu.edu/people/onkar-sadekar) for partial credit reuirement for the "Diving in the Digital Public Space: From individual digital traces to collective social and political dynamics" course.)
+(Website created by [Eamon Drumm](https://www.linkedin.com/in/eamon-thomas-drumm-49648039/) and [Onkar Sadekar](https://networkdatascience.ceu.edu/people/onkar-sadekar) for partial credit requirement for the "Diving into the Digital Public Space: From individual digital traces to collective social and political dynamics" course.)
 ## Background and context
 
 “Transitional urbanism” is a term used to describe a range of practices and projects that have emerged over the past ten years in the field of urban development (Besson 2020). These projects typically involve the temporary (1-3 year) occupancy of urban brownfield sites by a mix of local SMEs, artists and community organisations while the sites await approval for redevelopment or demolition. The buildings can be publicly or privately owned; examples include industrial sites, warehouses, transportation infrastructure, office space and municipal buildings. 
@@ -21,7 +21,7 @@ Despite this proliferation of attention and stakeholders, an open question remai
 
 
 
-## Motivation of the research question
+## Defining the research question
 
 *“I know it when I see it” – threshold test established by Justice Potter Stewart in the 1964 US Supreme Court decision on obscenity and the definition of hardcore pornography*
 
@@ -167,7 +167,8 @@ Lai, Yuan, and Kontokosta, Constantine. 2019. [Topic modeling to discover the th
 
 Mavrič, J., Bobek, V., 2015, [“Measuring Urban Development and City Performance”](https://www.intechopen.com/chapters/49102), in V. Bobek (ed.), Perspectives on Business and Management, IntechOpen, London. 10.5772/61063. 
 
+Oldenburg, Ray. 1989. *The Great Good Place: cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day.* New York: Paragon House.
+
 Stack Overflow. 2020. [“A practical example of GSDMM in python?”.](https://stackoverflow.com/questions/62108771/a-practical-example-of-gsdmm-in-python)
 
-Oldenburg, Ray. 1989. *The Great Good Place: cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day.* New York: Paragon House.
 
