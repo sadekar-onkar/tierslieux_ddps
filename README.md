@@ -103,7 +103,43 @@ Most used hashtags             |  Second-most used hashtags
 
 | ![Image](/plots/tweet_vs_website_combined.jpeg) |
 |:--:| 
-| In this plot, the values that appear on the x-axis are the most frequent terms that emerge from a specific category of the Commune Mesure corpus: specifically, the “values” chosen by the participating sites to represent themselves. We searched for and plotted the occurrence of these terms in the Twitter corpus. There is a clear divergence between the terms articulated by the 38 Commune Mesure sites and those that appear on Twitter. The most frequently used values on CM (creativité/creativity, coopération and convivialité) were found significantly less frequently on Twitter. There was more significant overlap between two terms – “acceuil” (“welcome” or “hospitality” in the sense of having guests but also extending to temporary housing) and partage (sharing). The term “environnement” is cited less than one third (CM) and one quarter (Twitter) as often as the top two terms but showed significant overlap. |
+| In this plot, the values that appear on the x-axis are the most frequent terms that emerge from a specific category of the Commune Mesure corpus: specifically, the “values” chosen by the participating sites to represent themselves. We searched for and plotted the occurrence of these terms in the Twitter corpus. There is a clear divergence between the terms articulated by the 38 Commune Mesure sites and those that appear on Twitter. The most frequently used values on CM (creativité/creativity, coopération and convivialité) were found significantly less frequently on Twitter. There was more significant overlap between two terms – “acceuil” (“welcome” or “hospitality” in the sense of having guests but also extending to temporary housing) and partage (sharing). The term “environnement” is cited less than one third (CM) and one quarter (Twitter) as often as the top two terms but showed significant overlap.
+
+A potential limitation of this way of measuring shared values is that we did not count variations on the value terms (e.g. “creatif” or “creation” for “créativité”). This could have an impact on the results and will be explored in a future iteration. |
 
 
+| ![Image](/plots/website_vs_twitter_site.jpeg) |
+|:--:| 
+| This chart represents a first attempt to establish a typology of sites in the Commune Mesure database. It is based on the co-occurrence of their stated values (a proxy for “what they say about themselves”) versus the co-occurence of these same terms on Twitter (what “other people say about them”). The initial result is not very revealing - the only terms that co-occur anywhere on both sites are “convivialité, créativité, partage” and “environnement” by itself. The limitations of this strategy might lie in the tight definition of the terms (rather than enlarging it to related words as described above).|
 
+
+| ![Image](/plots/website_vs_twitter_site_any2.jpeg) |
+|:--:| 
+| In this final analysis, we open the parameters a bit to see if there are overlaps between certain pairs or groupings of values on both CM and Twitter, once again attempting to establish a typology of sites listed on Commune Mesure. In this case, we chart instances in which at least two of the words in the set appear together on both sites (so, for the set “acceuil, convivialité, créativité”, if at least “acceuil + créativité” or “convivialité + créativité” or other pairs etc. appear together).  is based on the co-occurrence of their stated values (a proxy for “what they say about themselves”) versus the co-occurence of these same terms on Twitter (what “other people say about them”). This second result is also not revealing - the word groupings with the highest rates of co-occurence all contain “acceuil” and two of them contain “créativité”, but this might be due to the frequent appearance of “acceuil” across the Twitter corpus and not any specific relationship between the values.|
+
+
+## Discussion and limitations
+
+This experiment was intended to explore the information that could be revealed about tiers-lieux by analysing and comparing the “self-definitions” of 38 different projects (scraped from the Commune Mesure website) and comparing it to the corpus of tweets containing the hashtags #tierslieux and #tierslieu. 
+
+Behind this experiment is the idea that words are defined by their context, and that by comparing what these spaces say about themselves to the public discourse, we could reveal trends, convergences and divergences, and perhaps even establish a typology of tiers-lieux based on their degree of correlation with the Twitter “definition” of these spaces. We took the statement by France Tiers-Lieux that each tiers-lieu is unique as a provocation and attempted to challenge it by seeing how, over time and in substance, the words used to describe these places were overlapping or not. 
+
+The broader implication of this is to help understand the contours of a trend in urban planning and development practice (via what people say about it) and to give context to the way tiers-lieux present what they do, who they are and what they achieve. 
+
+Our study looked at how topics associated with Tweets containing these hashtags change over time, giving a broad-brush panorama of trends associated with tiers-lieux. We analysed and visualised terminology used in the tiers-lieux self-descriptions from Commune Mesure website, seeing how they overlapped or not with terms used in Tweets. There was significant divergence in the terminology used, though also some overlap in certain “values”. Finally, we compared the values used by the tiers-lieux to describe themselves with occurrences (and co-occurrences) of these terms in the Twitter corpus, and attempted to visualise how the sites could be grouped or classified based on the co-occurrence in both datasets of certain terms. This last exercise was inconclusive for reasons related to the parameters we set, and could be improved.
+
+Of course, our sample is limited. For the first dataset, it was limited to the 38 sites for which we were able to scrape complete data from the Commune Mesure website. In the second case, while we were able to capture all of the approximately 24k tweets containing the hashtags #tierslieux and #tierslieu, Twitter does not encompass the entirety of the public debate about such places.
+
+Ways to expand and enrich the experiment in a future iteration include: 
+
+- Expanding the Twitter corpus to include additional hashtags (#territoires, to study the local development dimension, or #coworking, to enable us to parse the differences between #tierslieux and #coworking spaces)
+
+- Building a network of co-occurrences to understand which values best represent these 38 sites using network mapping
+
+- Examining more fully how training the topic model using the gigaword corpus (principally English-language) versus the French langauge corpus impacted the topics that emerged in parts 1 and 2 French 
+
+- Instead of using Twitter as the second corpus, we could attempt to work more closely along the lines of Lai and Kontokosta (2019) and Etienne, et al (2019) and source longer texts about tiers-lieux either from the mainstream and industry press (ex. those covering local development, smart cities, governance - e.g. La Gazette des Communes) or else publications from public agencies/operators like France Tiers-Lieux. This raises the problem of the boundaries of this corpus - unlike in the case of Etienne et al. (who used all of the planning documents on La Réunion), there is no natural administrative limit on these sources, which would require a sampling methodology. 
+
+- It is possible that some of the people producing tweets about tiers-lieux are also involved in running or promoting them. Tweeters may not be a distinct group of people, so the Twitter dataset may just be an outgrowth of the “self definitions”. 
+
+- We could work on a geographical analysis of the two corpuses, since both the tweets and the Commune Mesure data contain addresses and georeferenced information about their authors.  This would allow us to look at whether there are any regional patterns that emerge. This data could also be cross-referenced with local economic development data from INSEE. A geographical angle of analysis would be key for future research on correlating these sites with real estate values, SME creation, etc. 
