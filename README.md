@@ -63,7 +63,7 @@ Our approach is progressive and exploratory, looking at the data from different 
 
 We used two datasets to conduct our experiment: 
 
-1. **Commune Mesure**, a publicly funded website that gives tiers-lieux space to define themselves and co-develop metrics for measuring their impact. We scraped the website (https://communemesure.fr/app/les-lieux) using the BeautifulSoup and urllib packages of python. We then collected the data about the name of the site, its address, its geographical coordinates, founding values, and values used to self-describe 38 different “tiers-lieux” sites.
+1. **Commune Mesure**, a free, open-source and self-described "tool for evaluating and valuing the impacts of third places that allows you to visualize data at the individual and collective levels." It gives tiers-lieux space to define themselves and co-develop metrics for measuring their impact. We scraped the website (https://communemesure.fr/app/les-lieux) using the BeautifulSoup and urllib packages in Python. We then collected the data about the name of the site, its address, its geographical coordinates, founding values, and values used to self-describe 38 different “tiers-lieux” sites.
 
 2. **Twitter**. There are slightly more than 24,000 tweets in existence with the hashtags #tierslieux and #tierslieu. We used the twitter API and the MINET library to scrape tweets with hashtags #tierslieux and #tierslieu. There were ~19k tweets associated with #tierslieux and ~6k tweets associated with #tierslieu. We combined the two datasets by removing the duplicates to have a total of ~24k tweets.
 
