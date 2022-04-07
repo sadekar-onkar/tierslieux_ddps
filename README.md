@@ -76,19 +76,15 @@ We then used the spacy French language library (fr_core_news_lg) to extract the 
 
 Most used hashtags             |  Second-most used hashtags
 :-------------------------:|:-------------------------:
-![Image](/Data_collection/hashtags_first_time.jpeg)  |  ![Image](/Data_collection/hashtags_second_time.jpeg)
+![Image](/plots/hashtags_most_used_time.jpeg)  |  ![Image](/plots/hashtags_second_most_used_time.jpeg)
 
 
 
-| ![Image](/Data_collection/tweet_vs_website_combined.jpeg) |
+| ![Image](/plots/tweets_topic_time_wiki.jpeg) |
 |:--:| 
-| *Tweets vs Website combined* |
+| Graph 1 shows the first results of our experiment involving tracking the top topic per year as described in the method above. Using the gigaword corpus to train the model, our results showed several emerging trends: the recurrence of the topic “nouveau” in 2011-2012, then the recurrence of the topic “espace” (space) in 2014-2015, and finally the recurrence of the word “territoire” (literally territory, or local area) in 2019-2021. This progression indicates changes in the way tiers-lieux are described by twitter users - first as new projects and methods, then focusing on spaces that they occupy, and finally speaking more about their impact and involvement in local development. This trend would have to be confirmed by further analysis of specific users and correlated to changes in the published literature on tiers-lieux, but does indicate a clear trend. 
+ 
+The total number of tweets increased each year between 2010 and 2019, then dropped off precipitously between 2019-2021. This is likely due to the Covid-19 crisis, since tiers-lieux are working and public spaces and activity was restricted because of the pandemic. |
 
-| ![Image](/Data_collection/website_vs_twitter.jpeg)|
-|:--:| 
-| *Tweets vs Website grouped by site* |
 
-| ![Image](/Data_collection/website_vs_twitter_any2.jpeg) |
-|:--:| 
-| *Tweets vs Website grouped by site, any two values together* |
 
